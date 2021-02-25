@@ -1,0 +1,22 @@
+.section {
+  display: block;
+  padding: 25px;
+  text-align: center;
+}
+.section:nth-child(1) {
+  border-bottom: 1px solid #444242;
+  font-size: 24px;
+  letter-spacing: 0.08em;
+  color: rgb(1, 80, 21);
+}
+
+.section:nth-child(2) {
+  font-size: 18px;
+  letter-spacing: 0.06em;
+  color: rgb(10, 3, 73);
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 25px;
+}
